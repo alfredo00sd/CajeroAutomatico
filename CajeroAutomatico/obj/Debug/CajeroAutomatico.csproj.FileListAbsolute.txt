@@ -1,0 +1,14 @@
+c:\users\alfredo\documents\visual studio 2012\Projects\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+C:\Users\alfredo\Documents\Visual Studio 2012\Projects\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe
+C:\Users\alfredo\Documents\Visual Studio 2012\Projects\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.pdb
+C:\Users\alfredo\Documents\Visual Studio 2012\Projects\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csprojResolveAssemblyReference.cache
+C:\Users\alfredo\Documents\Visual Studio 2012\Projects\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.Form1.resources
+C:\Users\alfredo\Documents\Visual Studio 2012\Projects\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.Properties.Resources.resources
+C:\Users\alfredo\Documents\Visual Studio 2012\Projects\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.GenerateResource.Cache
+C:\Users\alfredo\Documents\Visual Studio 2012\Projects\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+C:\Users\alfredo\Documents\Visual Studio 2012\Projects\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb
+C:\Users\alfredo\Documents\Visual Studio 2012\Projects\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.FormUsuarios.resources
+C:\Users\alfredo\Documents\Visual Studio 2012\Projects\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.manifest
+C:\Users\alfredo\Documents\Visual Studio 2012\Projects\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.application
+C:\Users\alfredo\Documents\Visual Studio 2012\Projects\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe.manifest
+C:\Users\alfredo\Documents\Visual Studio 2012\Projects\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.application
